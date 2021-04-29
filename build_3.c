@@ -6,9 +6,6 @@
         everything is working and fine
 
         this is the final build
-        
-        another complete file is made by removing all the coments and blank lines
-        making a clean code :-D file
 */
 
 #include<stdio.h>
